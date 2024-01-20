@@ -48,6 +48,7 @@ body
     padding: 5px;
     margin-bottom: 4px;
     border-radius: 5px;
+    font-weight: 800;
 }
 
 .publish
@@ -60,10 +61,16 @@ body
     display: block;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-weight: 800;
+}
+.img-container2
+{
+    padding-left: 1rem;
 }
 .user-det-username
 {
-    margin-left: 1rem; ;
+    margin-left: 0.5rem;
+    font-weight: 800;
 }
 .user-det
 {
