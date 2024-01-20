@@ -18,6 +18,7 @@ body
     background: #f5f5ea;
     border-radius: 20px;
     padding:1rem;
+    box-shadow: 15px 15px 1px #000;
 }
 .body-desc
 {
