@@ -18,6 +18,19 @@ body
     background: #f5f5ea;
     border-radius: 20px;
     padding:1rem;
+    box-shadow: 8px 8px 1px #000;
+}
+.body-container:hover
+{
+    /* centering first div and it's content*/
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:23rem;
+    background: #f5f5ea;
+    border-radius: 20px;
+    padding:1rem;
     box-shadow: 15px 15px 1px #000;
 }
 .body-desc
