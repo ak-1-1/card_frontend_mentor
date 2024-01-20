@@ -23,6 +23,7 @@ body
 .body-desc
 {
     font-size: 16px;
+    opacity: 0.5;
 }
 .grid-in
 {
